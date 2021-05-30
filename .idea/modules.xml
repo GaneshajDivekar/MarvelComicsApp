@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MarvelComics.iml" filepath="$PROJECT_DIR$/.idea/modules/MarvelComics.iml" group="MarvelComics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-utils/android-utils.iml" filepath="$PROJECT_DIR$/.idea/modules/android-utils/android-utils.iml" group="MarvelComics/android-utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="MarvelComics/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/data.iml" group="MarvelComics/data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/domain.iml" group="MarvelComics/domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature-home/feature-home.iml" filepath="$PROJECT_DIR$/.idea/modules/feature-home/feature-home.iml" group="MarvelComics/feature-home" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/localdata/localdata.iml" filepath="$PROJECT_DIR$/.idea/modules/localdata/localdata.iml" group="MarvelComics/localdata" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation/presentation.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation/presentation.iml" group="MarvelComics/presentation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remotedata/remotedata.iml" filepath="$PROJECT_DIR$/.idea/modules/remotedata/remotedata.iml" group="MarvelComics/remotedata" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/utils.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/utils.iml" group="MarvelComics/utils" />
+    </modules>
+  </component>
+</project>

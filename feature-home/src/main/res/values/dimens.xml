@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="detail_content_margin">0dp</dimen>
+
+    <dimen name="card_view_elevation">6dp</dimen>
+    <dimen name="card_view_radius">6dp</dimen>
+
+    <dimen name="row_item_margin_vertical">12dp</dimen>
+    <dimen name="comics_name_size">15sp</dimen>
+    <dimen name="comics_description_size">12sp</dimen>
+    <dimen name="comics_icon_width">110dp</dimen>
+    <dimen name="comics_icon_height">175dp</dimen>
+    <dimen name="comics_details_height">375dp</dimen>
+    <dimen name="comics_details_heights">325dp</dimen>
+
+</resources>
