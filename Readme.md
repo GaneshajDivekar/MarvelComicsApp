@@ -173,13 +173,6 @@ The ComicsDetailFragment observes for changes to the currentComics livedata from
 
 ## Progaurd custom keep rules
 
-```
--keep class com.sunragav.indiecampers.remotedata.models.Comic { <fields>; }
--keep class com.sunragav.indiecampers.remotedata.models.DataContainer { <fields>; }
--keep class com.sunragav.indiecampers.remotedata.models.DataWrapper { <fields>; }
--keep class com.sunragav.indiecampers.remotedata.models.Image { <fields>; }
--keepnames class com.sunragav.indiecampers.localdata.models.ComicsLocal { <fields>; }
-
 -keep class * extends androidx.room.RoomDatabase
 -dontwarn androidx.room.paging.**
 ```
